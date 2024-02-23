@@ -29,3 +29,5 @@ or
 ```terminal
 exit
 ```
+
+If anyone has any suggestions. I shall gladly take it. Thanks a lot for reading <3
